@@ -1,8 +1,8 @@
 com/learning/persistence/dao/JdbcOfficerDAO.java
  com.learning.persistence.dao.JdbcOfficerDAO
  com.learning.persistence.dao.JdbcOfficerDAO$1
-com/learning/persistence/entities/Rank.java
- com.learning.persistence.entities.Rank
+com/learning/persistence/dao/JpaOfficerDAO.java
+ com.learning.persistence.dao.JpaOfficerDAO
 com/learning/persistence/entities/Officer.java
  com.learning.persistence.entities.Officer
 com/learning/persistence/dao/OfficerRepository.java
@@ -11,5 +11,5 @@ com/learning/persistence/PersistenceApplication.java
  com.learning.persistence.PersistenceApplication
 com/learning/persistence/dao/OfficerDAO.java
  com.learning.persistence.dao.OfficerDAO
-com/learning/persistence/dao/JpaOfficerDAO.java
- com.learning.persistence.dao.JpaOfficerDAO
+com/learning/persistence/entities/Rank.java
+ com.learning.persistence.entities.Rank
